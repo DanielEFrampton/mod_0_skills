@@ -49,6 +49,7 @@ Top-Down Design: How to Become a Turing Student
   If applicant is accepted:
     2.1 Receive acceptance email from technical interviewer
     2.2 Receive welcome call from Erin Williams
+    2.3 Proceed to completion of enrollment steps
   If applicant is not accepted:
     2.1 Receive polite rejection email from technical interviewer
     2.2 Try again in 90 days
