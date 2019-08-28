@@ -1,0 +1,15 @@
+Object: Bacon Cheeseburger
+
+Attributes:
+price: 5.50
+servedDuring: ["lunch", "dinner"]
+itemsOnDish: ["bacon cheeseburger", "fries", "ketchup"]
+includesDrink: true
+includesSide: false
+optionToGo: true
+
+Methods:
+discountPrice(1.50): changes price to 4.00
+addMealtime("brunch"): adds "brunch" to servedDuring array, now ["lunch", "dinner", "brunch"]
+noLongerIncludesSide: includesSide remains false
+nowIncludesDrink: includesDrink remains true
