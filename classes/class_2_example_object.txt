@@ -1,0 +1,16 @@
+Object: Table3
+
+Attributes:
+numberOfSeats: 4
+hasTablecloth: false
+candlesLit: false
+condimentsAvailable: ["salt","pepper","Tobasco"]
+numberOfSilverwareSets: 4
+hasDessertMenu: false
+hasHighChair: false
+
+Methods:
+addChair: increments numberOfSeats by 1 to 5
+addTablecloth: changes hasTablecloth to true
+isTableReady: returns false (because hasTablecloth is not true)
+addCondiment("Sriracha"): adds "Sriracha" to condimentsAvailable array, now: ["salt","pepper","Tobasco","Sriracha"]
