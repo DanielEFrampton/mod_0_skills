@@ -1,7 +1,7 @@
 Top-Down Design: How to Become a Turing Student
 
 1 Apply to Turing
-  1.1 Web application
+  1.1 Complete web application
     1.1.1 Navigate to application
       1.1.1.1 Sit at internet-enabled computer
       1.1.1.2 Open browser
@@ -29,7 +29,7 @@ Top-Down Design: How to Become a Turing Student
         1.1.4.2 Schedule technical interview
       If applicant does not receive invitation to next step:
         1.1.4.2 Try again in 90 days
-  1.2 Technical interview
+  1.2 Complete technical interview
     1.2.1 Travel to Turing
       1.2.1.1 Locate Turing using Google Maps and address on https://turing.io
       1.2.1.2 Plan necessary means of travel
