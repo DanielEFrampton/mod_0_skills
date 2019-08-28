@@ -1,0 +1,15 @@
+Class: Meal
+
+Attributes:
+price (float)
+servedDuring (string) # i.e., breakfast, brunch, lunch, dinner, or dessert
+itemsOnDish (array)
+includesDrink (boolean)
+includesSide (boolean)
+optionToGo (boolean)
+
+Methods:
+discountPrice(integer) (lowers price by given float amount in parentheses)
+changeTimeTo(string) (changes mealtime when meal is served to string)
+noLongerIncludesSide (changes includesSide to false)
+nowIncludesDrink (changes includesDrink to true)
