@@ -1,0 +1,16 @@
+Class: Table
+
+Attributes:
+numberOfSeats (integer)
+hasTablecloth (boolean)
+candlesLit (boolean)
+condimentsAvailable (array)
+numberOfSilverwareSets (integer)
+hasDessertMenu (boolean)
+hasHighChair (boolean)
+
+Methods:
+addChair (increments numberOfSeats by 1)
+addTablecloth (changes hasTablecloth to true)
+isTableReady (returns interpolated string using numberOfSeats, numberOfSilverwareSets, hasDessertMenu)
+addCondiment(string) (adds a condiment to condimentsAvailable array)
