@@ -54,7 +54,7 @@ Top-Down Design: How to Become a Turing Student
     2.1 Receive polite rejection email from technical interviewer
     2.2 Try again in 90 days
 3 Complete enrollment steps
-  3.1 Follow link in email to enrollment instructions page
+  3.1 Follow link in acceptance email to enrollment instructions page
   3.2 Pay $1200 deposit using linked page.
   3.3 Complete intake process
     3.3.1 Complete intake survey
