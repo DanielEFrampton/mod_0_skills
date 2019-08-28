@@ -1,0 +1,79 @@
+Top-Down Design: How to Become a Turing Student
+
+1 Apply to Turing
+  1.1 Web application
+    1.1.1 Navigate to application
+      1.1.1.1 Sit at internet-enabled computer
+      1.1.1.2 Open browser
+      1.1.1.3 Navigate to https://turing.io/
+      1.1.1.4 Click "Programs" on top menu
+      If desired program is Front End Engineering:
+        1.1.1.5 Scroll down to "Front End Engineering" and click "APPLY NOW" button
+      If desired program is Back End Engineering:
+        1.1.1.5 Scroll down to "Back End Engineering" and click "APPLY NOW" button
+    1.1.2 Log in to application
+      If applicant does not have a Facebook or GitHub account:
+        1.1.2.1 Create Facebook or GitHub account at facebook.com or github.com
+        1.1.2.2 Return to Turing application page and click button of chosen website
+        1.1.2.3 Enter username and password for chosen website and submit
+      If applicant has a Facebook or GitHub account:
+        1.1.2.1 Click Facebook or GitHub button to log in with that account
+        1.1.2.2 Enter username and password for chosen website and submit
+    1.1.3 Fill out application
+      1.1.3.1 Fill out all fields in "Background Information" section
+      1.1.3.2 Fill out all fields in "Work History" section
+      1.1.3.3 Fill out answers to all "Logic Quiz" questions
+    1.1.4 Submit application
+      1.1.4.1 Click "submit application" button to finish application.
+      If applicant receives invitation to next step from Erin Williams:
+        1.1.4.2 Schedule technical interview
+      If applicant does not receive invitation to next step:
+        1.1.4.2 Try again in 90 days
+  1.2 Technical interview
+    1.2.1 Travel to Turing
+      1.2.1.1 Locate Turing using Google Maps and address on https://turing.io
+      1.2.1.2 Plan necessary means of travel
+      1.2.1.3 Use chosen means of travel to arrive at Turing at scheduled time.
+      1.2.1.4 Take elevator to basement level
+      1.2.1.5 Ring doorbell
+      1.2.1.6 Introduce self to interviewer and follow to pairing station.
+    1.2.2 Conduct technical interview
+      1.2.2.1 Answer personal history and background questions
+      1.2.2.2 Complete logic puzzle quiz
+      1.2.2.3 Ask any remaining questions about interview process
+    1.2.3 Leave Turing
+      1.2.3.1 Exit via southwest glass doors
+      1.2.3.2 Return to street level by elevators
+      1.2.3.3 Return home via chosen transportation method
+2 Receive acceptance information
+  If applicant is accepted:
+    2.1 Receive acceptance email from technical interviewer
+    2.2 Receive welcome call from Erin Williams
+  If applicant is not accepted:
+    2.1 Receive polite rejection email from technical interviewer
+    2.2 Try again in 90 days
+3 Complete enrollment steps
+  3.1 Follow link in email to enrollment instructions page
+  3.2 Pay $1200 deposit using linked page.
+  3.3 Complete intake process
+    3.3.1 Complete intake survey
+    3.3.2 Complete demographics survey
+    3.3.3 Schedule intake call with Darren Smith
+    3.3.4 Hold intake call with Darren Smith at scheduled time
+  3.4 Sign student enrollment agreement
+    3.4.1 Wait for email from Erin Williams with RightSignature link
+    3.4.2 Follow link to digitally sign enrollment agreement
+  3.5 Arrange payment by 30 days before class
+    If student is paying up-front:
+      3.5.1 Pay up-front via payment page
+    If student is paying with a student loan:
+      3.5.1 Choose lender from list in acceptance email
+      3.5.2 Apply for loan from chosen lender
+      If student's loan application is accepted:
+        3.5.3 Sign relevant paperwork to accept loan terms
+      If student's loan application is denied:
+        3.5.3 Contact Erin Williams and enroll in in-house salary share plan
+  3.6 Join Slack
+    3.6.1 Wait for email invitation to Turing slack channel
+    3.6.2 Follow link to account creation page
+    3.6.3 Complete all fields and submit
