@@ -12,5 +12,5 @@ hasHighChair (boolean)
 Methods:
 addChair (increments numberOfSeats by 1)
 addTablecloth (changes hasTablecloth to true)
-isTableReady (returns interpolated string using numberOfSeats, numberOfSilverwareSets, hasDessertMenu)
+isTableReady (returns true if numberOfSeats = numberOfSilverwareSets and hasTablecloth is true, false if not)
 addCondiment(string) (adds a condiment to condimentsAvailable array)
